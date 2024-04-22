@@ -4,6 +4,6 @@
 ### 2. readme.md를 만들고 공유 합니다.
 ### 3. 웹앱으로 실행 하기 위해서 Settings - Pages - Branch
     
-![ 순서 ](https://github.com/Emmett6401/webappTM02/blob/main/%EC%BA%A1%EC%B2%98.PNG)
+![ 순서 ](https://github.com/Emmett6401/webappTM02/blob/main/seq.png)
 ### 4. 프로그램 실행은 여기를 누르세요 https://emmett6401.github.io/webappTM02/
 
